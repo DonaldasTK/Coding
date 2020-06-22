@@ -1,0 +1,400 @@
+body {
+    background-image: url('https://i.ibb.co/TRg0zY9/fonas2.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+ }
+
+ .container {
+ 	display: inline-block;
+ 	height: 300px;
+ 	width: 50%;
+ }
+
+ .container1 {
+ 	display: inline-block;
+ 	height: 700px;
+ 	width: 49%;
+ }
+
+.container2 {
+	display: block;
+	height: 180em;
+	width: 50%;
+	margin: 0 auto;
+	padding-top: 300px;
+}
+
+h1, .text {
+ 	display: inline-block;
+ 	font-size: 150px;
+ 	color: white;
+ 	padding-top: 40px;
+ 	padding-left: 1400px;
+ 	font-family: 'Montserrat', sans-serif;
+ }
+
+h2 {
+	text-align: center;
+ 	font-size: 100px;
+ 	padding-top: 100px;
+ 	color: white;
+ 	font-family: 'Montserrat', sans-serif;
+ 	font-family: 'Kaushan Script', cursive;
+}
+
+h3 {
+ 	text-align: center;
+ 	font-size: 400px;
+ 	padding-top: 140px;
+ 	color: white;
+ 	font-family: 'Montserrat', sans-serif;
+ }
+
+ h4 {
+ 	font-size: 100px;
+ 	display: inline-block;
+ 	margin-right: 40px;
+ 	color: white;
+ 	font-family: 'Montserrat', sans-serif;
+ }
+
+ nav {
+ 	display: inline-block;
+ 	font-size: 100px;
+ 	color: white;
+ 	padding-top: 100px;
+ }
+
+ a {
+ 	font-size: 70px;
+ 	margin-left: 180px;
+ 	color: white;
+ 	font-family: 'Montserrat', sans-serif;
+ 	src: url(<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">);
+ }
+
+.icon {
+	height: 80px;
+	width: 80px;
+	padding-left: 160px;
+	padding-right: 160px;
+	padding-bottom: 40px;
+}
+
+.icon1 {
+	height: 80px;
+	width: 80px;
+	padding-bottom: 40px;
+}
+
+button {
+	display: block;
+	margin: 0 auto;
+	margin-top: 400px;
+	height: 150px;
+	width: 600px;
+	font-size: 50px;
+	border-color: white;
+	background-color: Transparent;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+
+}
+
+.container3 {
+	height: 170em;
+	width: 50%;
+	margin: 0 auto;
+}
+
+h1 , .text1 {
+	text-align: center;
+ 	font-size: 100px;
+ 	padding-top: 500px;
+ 	padding-left: 1650px;
+ 	color: black;
+ 	font-family: 'Kaushan Script', cursive;
+}
+
+
+h1 , .text2 {
+ 	text-align: center;
+ 	font-size: 100px;
+ 	padding-top: 100px;
+ 	padding-left: 1450px;
+ 	color: black;
+ 	font-family: 'Montserrat', sans-serif;
+}
+
+h1 , .text3 {
+ 	text-align: center;
+ 	font-size: 50px;
+ 	padding-top: 400px;
+ 	padding-left: 100px;
+ 	color: grey;
+ 	font-family: 'Montserrat', sans-serif;
+}
+
+.pic {
+	padding-left: 50px;
+	height: 800px;
+	width: 1100px;
+	padding-top: 300px;
+}
+
+.pic1 {
+	padding-left: 200px;
+	height: 800px;
+	width: 1100px;
+	padding-top: 300px;
+}
+
+.pic2 {
+	padding-left: 200px;
+	height: 800px;
+	width: 1100px;
+	padding-top: 300px;
+}
+
+.container4 {
+	height: 50em;
+	width: 50%;
+	margin: 0 auto;
+	background-color: #95e1d3;
+}
+
+/*h1 , .text4 {
+ 	font-size: 250px;
+ 	color: black;
+ 	font-family: 'Montserrat', sans-serif;
+}  Tekstas kuris turi but zydram fone*/
+
+.container5 {
+	height: 160em;
+	width: 50%;
+	margin: 0 auto;
+}
+
+h1 , .text4 {
+	text-align: center;
+ 	font-size: 100px;
+ 	padding-top: 500px;
+ 	padding-left: 1650px;
+ 	color: black;
+ 	font-family: 'Kaushan Script', cursive;
+}
+
+h1 , .text5 {
+	text-align: center;
+ 	font-size: 100px;
+ 	padding-top: 100px;
+ 	padding-left: 1400px;
+ 	color: black;
+ 	font-family: 'Montserrat', sans-serif;
+}
+
+.container6 {
+	padding-top: 250px;
+	height: 50em;
+	width: 100%;
+	margin: 0 auto;
+	/*background-color: #95e1d3;*/
+}
+
+.pic4 {
+	padding-top: 300px;
+	padding-left: 100px;
+	height: 100px;
+	width: 100px;
+}
+
+.container7 {
+	height: 1em;
+	width: 100%;
+	margin: 0 auto;
+	background-color: grey;
+}
+
+.text6 {
+	font-size: 40px;
+	padding-left: 80px;
+}
+
+.pic5 {
+	height: 200em;
+	width: 100%;
+}
+
+.container8 {
+	height: 80em;
+	width: 50%;
+	margin: 0 auto;
+}
+
+h1 , .text7 {
+	text-align: center;
+ 	font-size: 100px;
+ 	padding-top: 500px;
+ 	padding-left: 1650px;
+ 	color: black;
+ 	font-family: 'Kaushan Script', cursive;
+}
+
+h1 , .text8 {
+	text-align: center;
+ 	font-size: 100px;
+ 	padding-top: 100px;
+ 	padding-left: 1450px;
+ 	color: black;
+ 	font-family: 'Montserrat', sans-serif;
+}
+
+h1 , .text9 {
+ 	text-align: center;
+ 	font-size: 50px;
+ 	padding-top: 200px;
+ 	padding-left: 100px;
+ 	color: grey;
+ 	font-family: 'Montserrat', sans-serif;
+}
+
+.container9 {
+	height: 80em;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.pic6 {
+	display: inline-block;
+	height: 1100px;
+	width: 45%;
+}
+
+.container10 {
+	display: inline-block;
+	height: 80em;
+	width: 50%;
+	margin-left: 25%;
+}
+
+.pic7 {
+	display: inline-block;
+	padding-top: 400px;
+	padding-left: 400px;
+	height: 500px;
+	width: 500px;
+}
+
+h1 , .text10 {
+ 	font-size: 30px;
+ 	padding-top: 200px;
+ 	padding-left: 100px;
+ 	color: grey;
+ 	font-family: 'Montserrat', sans-serif;
+}
+
+.container11 {
+	height: 50px;
+	width: 50px;
+}
+
+.container12 {
+	height: 80em;
+	width: 50%;
+	margin-left: 25%; 
+}
+
+.container13 {
+	height: 120em;
+	width: 50%;
+	margin-left: 25%;
+}
+
+.pic8 {
+	padding-left: 50px;
+	height: 1200px;
+	width: 1100px;
+	padding-top: 100px;
+}
+
+.pic9 {
+	padding-left: 200px;
+	height: 1200px;
+	width: 1100px;
+	padding-top: 100px;
+}
+
+.pic10 {
+	padding-left: 200px;
+	height: 1200px;
+	width: 1100px;
+	padding-top: 100px;
+}
+
+.pic11 {
+	height: 600px;
+	width: 60%;
+	margin-left: 20%;
+}
+
+.container14 {
+	height: 70em;
+	width: 50%;
+	margin-left: 25%; 
+}
+
+h1 , .text10 {
+	text-align: center;
+ 	font-size: 100px;
+ 	padding-top: 500px;
+ 	padding-left: 1650px;
+ 	color: black;
+ 	font-family: 'Kaushan Script', cursive;
+}
+
+h1 , .text11 {
+	text-align: center;
+ 	font-size: 100px;
+ 	padding-top: 100px;
+ 	padding-left: 1350px;
+ 	color: black;
+ 	font-family: 'Montserrat', sans-serif;
+}
+
+h1 , .text12 {
+ 	text-align: center;
+ 	font-size: 50px;
+ 	padding-top: 200px;
+ 	padding-left: 100px;
+ 	color: grey;
+ 	font-family: 'Montserrat', sans-serif;
+}
+
+.container15 {
+	height: 120em;
+	width: 100%;
+	background-color: blue; 
+	font-size: 0;
+}
+
+.pic12 {
+	height: 1400px;
+	width: 1900px;
+}
+
+.pic13 {
+	height: 1400px;
+	width: 1900px;
+}
+
+.pic14 {
+	height: 2800px;
+	width: 1900px;
+}
+
+.pic15 {
+	height: 1400px;
+	width: 1900px;
+}
+
